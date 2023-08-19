@@ -1,0 +1,19 @@
+name: revenuecat_service
+description: A new Flutter module project.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  purchases_flutter: ^5.3.0
+  get: ^4.6.5
+  # collection: ^1.17.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
